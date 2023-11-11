@@ -1,0 +1,9 @@
+{
+  "sourceDirPath": "/Users/zhangxudong/code/b2b-cli",
+  "targetDirPath": "/Users/zhangxudong/code/b2b-cli/target",
+  "imageTargetDirPath": "/Users/zhangxudong/code/b2b-cli/target/image",
+  "videoTargetDirPath": "/Users/zhangxudong/code/b2b-cli/target/video",
+  "jsTargetDirPath": "/Users/zhangxudong/code/b2b-cli/target/js",
+  "vueTargetDirPath": "/Users/zhangxudong/code/b2b-cli/target/vue",
+  "errorLogFilePath": "/Users/zhangxudong/code/b2b-cli/target/error.text"
+}
